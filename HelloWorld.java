@@ -4,7 +4,7 @@ public class HelloWorld {
 		Scanner sc = new Scanner (System.in);
 		String name = sc.nextLine();
 		System.out.println("Hello World I am "+name);
-		
+		System.out.println("Hello World This is TDTU");		
 	}
 	
 }
